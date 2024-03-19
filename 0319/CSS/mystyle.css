@@ -1,2 +1,22 @@
 .title1 {
+	color: #3C6CBF;
+	margin-top: 0px;
+	margin-left: 0px;
+	font-size: xx-large;
+	text-align: center;
+}
+.main1 {
+	color: #EA6061;
+	width: auto;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	text-align: center;
+	font-size: x-large;
+}
+#caption img {
+	text-shadow: 15px 15px #000000;
+	-webkit-box-shadow: 15px 15px;
+	box-shadow: 15px 15px;
 }
